@@ -17,6 +17,7 @@ apparmor: false
 full_access: true
 port:
   - 5002
+host_network: true
 #privileged: 
 #  - SYS_RESOURCE
 #udev: true
